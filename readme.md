@@ -22,7 +22,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/jupyter/F37626" height="30" alt="jupyter logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/pandas/150458" height="30" alt="pandas logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
   <img width="12" />
